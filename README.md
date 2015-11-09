@@ -1,3 +1,3 @@
 # vimrc
-my .vimrc file
-## my YouCompleteMe configuration file
+> This repo is used to store my .vimrc file
+> And my YouCompleteMe configuration file is also stored here. 
