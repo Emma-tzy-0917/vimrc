@@ -15,8 +15,8 @@ set showmatch
 set matchtime=1
 set autoindent
 set number
-set lines=57 
-set columns=100
+""set lines=57 
+""set columns=100
 "{ smart matching braces} 
 :inoremap { {}<ESC>i
 :inoremap ( ()<ESC>i
@@ -52,6 +52,8 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline#extensions#tabline#buffer_nr_show = 1
 "set airline theme
 let g:airline_theme='bubblegum'
+
+filetype on
 let g:ycm_confirm_extra_conf=0
 
 let g:NERDTreeWinPos="right"
